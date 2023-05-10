@@ -3,22 +3,20 @@
 - 🔭 I’m currently focused on developing my skills.
 - 🌱 I’m currently learning Java.
 - 🧠 I'm interested in AI.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="16px"/> I'm arch Linux user.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="16px"/> I'm Arch Linux user.
 - 📫 How to reach me: m.dmit05@mail.ru.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 -->
 
-<!-- Codewars-->
-### My account on codewars:
+## My codewars
 
-[![codewars](https://www.codewars.com/users/Boodoochai/badges/large)](https://www.codewars.com/users/Boodoochai)   
+![Codewars](https://github.r2v.ch/codewars?user=Boodoochai&top_languages=true)
 
-### My statistics:
+## My statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boodoochai)](https://github.com/Boodoochai)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodoochai)](https://github.com/Boodoochai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodoochai)](https://github.com/Boodoochai)
 
 <!-- Top used langs
@@ -47,6 +45,8 @@
 -->
 
 <!-- Codewars
+Большой (big):
+[![codewars](https://www.codewars.com/users/Boodoochai/badges/large)](https://www.codewars.com/users/Boodoochai)   
 Маленький (small):  
 [![codewars](https://www.codewars.com/users/Boodoochai/badges/small)](https://www.codewars.com/users/Boodoochai) 
 Крошечный (micro):  
@@ -55,4 +55,8 @@
 
 <!--- Github trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Boodoochai)](https://github.com/Boodoochai/github-profile-trophy) 
+-->
+
+<!--- Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boodoochai)](https://github.com/Boodoochai)
 -->
