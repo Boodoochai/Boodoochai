@@ -10,11 +10,12 @@
 - 💬 Ask me about 
 -->
 
-## My codewars
+## My Codewars and LeetCode
 
-![Codewars](https://github.r2v.ch/codewars?user=Boodoochai&top_languages=true)
+[![Codewars](https://github.r2v.ch/codewars?user=Boodoochai&top_languages=true)](https://www.codewars.com/users/Boodoochai/stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai&theme=dark)](https://github.com/Boodoochai/leetcode-stats)
 
-## My statistics
+## My GitHub statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boodoochai)](https://github.com/Boodoochai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodoochai)](https://github.com/Boodoochai)
@@ -39,9 +40,9 @@
 
 <!-- Leetcode
 Светлая тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai)](https://github.com/Boodoochai/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai)](https://github.com/Boodoochai/leetcode-stats)
 Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai&theme=dark)](https://github.com/Boodoochai/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai&theme=dark)](https://github.com/Boodoochai/leetcode-stats)
 -->
 
 <!-- Codewars
