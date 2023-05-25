@@ -13,11 +13,11 @@
 ## My Codewars
 
 [![Codewars](https://github.r2v.ch/codewars?user=Boodoochai&top_languages=true)](https://www.codewars.com/users/Boodoochai/stats)
-
+<!-- Tmp
 ## My LeetCode
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai&theme=dark)](https://github.com/Boodoochai/leetcode-stats)
-
+-->
 ## My GitHub statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boodoochai)](https://github.com/Boodoochai)
