@@ -1,7 +1,7 @@
 # Hi there, I'm Matvey👋
 ### Computer science student from Russia 🇷🇺
 - 🔭 I’m currently focused on developing my skills.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java Spring.
 - 🧠 I'm interested in AI.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="16px"/> I'm Arch Linux user.
 - 📫 How to reach me: m.dmit05@mail.ru.
