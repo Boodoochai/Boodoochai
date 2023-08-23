@@ -21,7 +21,10 @@
 ## My GitHub statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boodoochai)](https://github.com/Boodoochai)
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boodoochai)](https://github.com/Boodoochai)
+-->
 
 <!-- Top used langs
 Для компактной версии
