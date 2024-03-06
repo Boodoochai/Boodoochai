@@ -1,7 +1,7 @@
 # Hi there, I'm Matvey👋
 ### Computer science student from Russia 🇷🇺
 - 🔭 I’m currently focused on developing my skills.
-- 🌱 I’m currently learning Java Spring.
+- 🌱 I’m currently learning django.
 - 🧠 I'm interested in AI.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="16px"/> I'm Arch Linux user.
 - 📫 How to reach me: m.dmit05@mail.ru.
@@ -10,14 +10,26 @@
 - 💬 Ask me about 
 -->
 
+<!--
+## My Codeforces
+
+[![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Boodoochai&theme=1)](https://codeforces.com/profile/Boodoochai)
+
+[GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+-->
+
+<!--
 ## My Codewars
 
 [![Codewars](https://github.r2v.ch/codewars?user=Boodoochai&top_languages=true)](https://www.codewars.com/users/Boodoochai/stats)
-<!-- Tmp
+-->
+
+<!--
 ## My LeetCode
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Boodoochai&theme=dark)](https://github.com/Boodoochai/leetcode-stats)
 -->
+
 ## My GitHub statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boodoochai)](https://github.com/Boodoochai)
